@@ -1,6 +1,6 @@
-background: linear-gradient(40deg, #4C5270, #F652A0, #36EEE0);
+
 body{
-	background: url(photo/R.jpg);
+	background: linear-gradient(40deg, blue, aqua);
 	background-size: cover;
 	background-attachment: fixed;
 	font-family: 'Russo One', sans-serif;
@@ -167,5 +167,5 @@ a{
 	background: rgba(0, 0, 0, .5);
 	position: absolute;
 	top: 520%;
-	left: -750px;
+	left: -550px;
 }
